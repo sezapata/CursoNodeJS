@@ -1,0 +1,2 @@
+ Bienvenido señor(a) aspirante Sergio identificado con número de documento:15, datos de la inscripción:
+        El curso con nombre:Pensamiento Algorítmico y código:100, tiene una duración de:100 horas y un único costo de:$80000

@@ -1,0 +1,2 @@
+ Bienvenido señor(a) aspirante Sergio identificado con número de documento:123, datos de la inscripción:
+        El curso con nombre:Diseño de redes de datos y código:200, tiene una duración de:80 horas y un único costo de:$60000
